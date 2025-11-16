@@ -24,12 +24,15 @@ load_dotenv()
 
 @st.cache_data
 def load_data():
+
     dataset = load_dataset("prsdm/Machine-Learning-QA-dataset", split="train", encoding="utf-8")
     return pd.DataFrame(dataset)
 
 
+
 class BaseRAG:
     def __init__(self, name):
+
         self.name = name
 
     def run(self, query: str) -> dict:
