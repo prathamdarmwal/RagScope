@@ -4,11 +4,6 @@
 
 RAGScope is an experimental benchmarking tool built to help developers, researchers, and practitioners evaluate different RAG strategies side by side. Instead of reading vague blog posts or scattered benchmarks, you can **run the workflows, inspect the pipelines, and compare results** on a common dataset.
 
-## 🔗 Links
-
-* 📖 [LinkedIn Project Post](https://www.linkedin.com/posts/karan-chouhan-57a337283_generativeai-rag-retrievalaugmentedgeneration-activity-7366387677765472256-ZEoP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETtOW4BGUyz-H1DfZENmLTxZMycY_DLoNE)
-
-
 
 ## 🖥️ UI Screenshots
 
